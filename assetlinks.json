@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "jp.co.netprotections.atoneappdev",
+    "sha256_cert_fingerprints":
+    ["08:AE:41:AE:9B:A9:96:15:3B:F6:59:4B:85:68:83:50:FB:92:CF:E1:35:13:5C:19:BA:5F:99:DE:B2:6F:3A:01"]
+  }
+}]
